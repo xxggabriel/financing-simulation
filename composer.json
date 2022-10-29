@@ -1,0 +1,17 @@
+{
+    "name": "xxggabriel/finaciamento-tabela-fipe",
+    "autoload": {
+        "psr-4": {
+            "Xxggabriel\\FinanFipe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Oliveira",
+            "email": "gabrieloliveradesouza9@gmail.com"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "4.3.7.2"
+    }
+}
